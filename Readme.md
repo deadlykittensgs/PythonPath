@@ -1,0 +1,1 @@
+Reading through the Docs for path and wanted to a super simple practice project using it and a pop up to distract from the dir being created on the desktop. 
